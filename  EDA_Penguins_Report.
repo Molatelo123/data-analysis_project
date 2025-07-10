@@ -1,0 +1,14 @@
+1. Dataset Description:
+
+The Penguins dataset contains biophysical measurements of three penguin species (Adelie, Chinstrap, Gentoo) from the Palmer Archipelago in Antarctica. Features include bill length, bill depth, flipper length, and body mass, along with the species identification.
+
+2. Data Cleaning:
+
+The dataset underwent several cleaning steps:
+
+Loaded the dataset and inspected its structure.
+Identified and removed rows with missing values to ensure data integrity.
+Standardized column names by converting them to lowercase and replacing spaces with underscores for consistency.
+3. Missing Data Management:
+
+The dataset contained a few missing values which were addressed by removing the corresponding rows. This method was chosen as the missing
